@@ -1,1 +1,2 @@
 This is file 1 for the Extra Credit 0.6 assignment for CS 532.
+This line of text was added in the repo on Github.com

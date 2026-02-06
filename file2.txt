@@ -1,1 +1,2 @@
-This is file 2 for the Extra Credit 0.6 assignment for CS 532.
+This is file 2 for the Extra Credit 0.5 assignment for CS 532.
+I have added text as an ammendment to commit.
